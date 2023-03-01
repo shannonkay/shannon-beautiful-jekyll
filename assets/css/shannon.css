@@ -1,0 +1,88 @@
+body {
+   /*
+    background: linear-gradient(to bottom, #f7d3d6, #FC8EAC);
+    */
+    background: linear-gradient(to bottom, #f9dee1, #f7d3d6, #fab1c1, #FC8EAC, #fc7d99 );
+}
+
+.post {
+    display: block;
+    background-color: #f7d3d6;
+    border: solid 2pt;
+    border-color: white;
+    padding: 10pt;
+    margin: auto;
+    text-align: justify;
+    max-width: 1024px;
+    border-radius: 10px;
+}
+
+.blog-post {
+    display: block;
+    background-color: #f7d3d6;
+    border: solid 2pt;
+    border-color: white;
+    padding: 10pt;
+    margin: auto;
+    text-align: justify;
+    max-width: 1024px;
+    border-radius: 10px;
+    margin-bottom: 10pt;
+}
+
+.post-preview {
+    display: block;
+    background-color: #f7d3d6;
+    border: solid 2pt;
+    border-color: white;
+    padding: 5pt;
+    margin: auto;
+    text-align: justify;
+    max-width: 1024px;
+    border-radius: 10px;
+    margin-bottom: 10pt;
+}
+
+.navbar-brand a {
+    color: #ffffff;
+}
+.intro-header .page-heading h1 {
+    background: linear-gradient(183deg, #f9c2cc 10%, #FC8EAC 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    padding-bottom: 10pt;
+}
+.post-title {
+    color: #FC8EAC;
+}
+.post-subtitle a {
+    color: #FC6C85;
+}
+.post-meta {
+    color: #fb6f92;
+}
+.blog-tags a {
+    color: #FC6C85;
+    padding: 2pt;
+    background-color: #f7d3d6;
+    
+}
+.blog-tags a:hover, a:focus {
+    color: #ffffff;
+    background: linear-gradient(183deg, #f9c2cc 10%, #FC8EAC 70%);
+    border-color: #FC6C85;
+}
+.post-preview .blog-tags {
+    color: #fb6f92;
+}
+
+.post-heading {
+    color: #FC8EAC;
+}
+.post-read-more {
+    
+}
+footer {
+    border-top: 1px #fb6f92 solid;
+}

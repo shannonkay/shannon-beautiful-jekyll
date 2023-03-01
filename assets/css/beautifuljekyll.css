@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #fb6f92;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -810,7 +810,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #f9c2cc;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
