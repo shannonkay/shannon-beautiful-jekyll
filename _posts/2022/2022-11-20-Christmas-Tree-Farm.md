@@ -3,7 +3,7 @@ layout: post
 title:  "Christmas Tree Farm"
 # subtitle: Each post also has a subtitle
 date:   2022-11-20 15:50:44 -0800
-weather: 73°F Clear
+weather: 🔆 73°F Clear
 location: Peltzer Pines Silverado, Silverado, California
 mood: 🎄
 # cover-img: /assets/img/path.jpg
