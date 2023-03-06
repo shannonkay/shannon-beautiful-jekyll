@@ -477,6 +477,7 @@ footer .footer-custom-content {
 .post-preview .post-title {
   font-size: 1.875rem;
   margin-top: 0;
+  text-align: left;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -507,13 +508,13 @@ footer .footer-custom-content {
   width: 100%;
 }
 .post-preview .post-image {
-  float: right;
+  float: right; 
   margin-left: 0.625rem;
-  height: 12rem;
-  width: 12rem;
+  height: auto;
+  width: 18rem;
 }
 .post-preview .post-image {
-  filter: grayscale(40%);
+  
 }
 .post-preview .post-image:hover {
   filter: grayscale(0%);
@@ -554,7 +555,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 @media (min-width: 768px) {
@@ -587,6 +588,7 @@ footer .footer-custom-content {
   opacity: 0.8;
   border: 1px solid transparent;
   border-radius: 0.1875rem;
+
 }
 
 .blog-tags a:hover {

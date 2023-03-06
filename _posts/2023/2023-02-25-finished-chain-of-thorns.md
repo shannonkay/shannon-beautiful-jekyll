@@ -2,10 +2,13 @@
 layout: post
 title:  "Finished: Chain of Thorns"
 date:   2023-02-25 11:33:14 -0800
+weather: 🌥️ 44°F Mostly Cloudy
+# location: London, England
+mood: 🥰
 categories: books
-tag: Chain of Thorns
-tags: Shadowhunters
+tags: [Chain of Thorns, Shadowhunters]
 ---
+
 I’ve finished Chain of Thorns, and The Last Hours series of Shadowhunter books has concluded for me.
 
 The anticipation for Chain of Thorns was at the forefront of my reading brain, and I had trouble thinking about what to read next after the “holiday book” reading season. Knowing Chain of Thorns was coming out at the end of January left me indecisive about other reading. 

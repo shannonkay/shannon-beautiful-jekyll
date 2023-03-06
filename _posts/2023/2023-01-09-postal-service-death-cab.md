@@ -2,7 +2,13 @@
 layout: post
 title:  "The Postal Service & Death Cab For Cutie"
 date:   2023-01-09 22:26:15 -0800
+weather: 🌧️ 55°F Rain
+# location: 
+mood: 🥰 🤩
+thumbnail-img: /assets/img/deathcabpostalservice.jpg
+share-img: /assets/img/deathcabpostalservice.jpg
 categories: journal
+tags: [music, concerts, Death Cab For Cutie, The Postal Service]
 ---
 My husband got us tickets to The Postal Service & Death Cab For Cutie playing Give Up & Transatlanticism at the Hollywood Bowl in October.
 

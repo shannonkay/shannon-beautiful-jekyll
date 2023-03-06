@@ -42,6 +42,23 @@ body {
     border-radius: 10px;
     margin-bottom: 10pt;
 }
+.post-meta {
+    
+}
+
+#full-tags-list {
+    display: block;
+    background-color: #f7d3d6;
+    border: solid 2pt;
+    border-color: white;
+    padding: 10pt;
+    margin: auto;
+    text-align: justify;
+    max-width: 1024px;
+    border-radius: 10px;
+    margin-bottom: 10pt;
+    margin-top: 10pt;
+}
 
 .navbar-brand a {
     color: #ffffff;
@@ -62,6 +79,9 @@ body {
 .post-meta {
     color: #fb6f92;
 }
+.extra-meta {
+    
+}
 .blog-tags a {
     color: #FC6C85;
     padding: 2pt;
@@ -80,9 +100,48 @@ body {
 .post-heading {
     color: #FC8EAC;
 }
-.post-read-more {
-    
+.post-read-more a {
+    color: #fb6f92;
 }
+
+.tag-btn {
+    background: linear-gradient(90deg, rgba(255,160,197,1) 18%, rgba(149,205,228,1) 50%, rgba(192,149,228,1) 100%);
+    border: 1px solid #a781c6;
+    font-weight: 500;
+}
+
+.tag-btn a:hover a:focus a:active {
+    border: 1px solid #fb6f92;
+}
+
+.fas .fa-tag {
+    background-color: #c095e4;
+}
+
+.linked-section {
+    color: #c095e4;
+}
+.tag-entry a {
+    color: #000000;
+}
+.tag-entry a:hover a:focus {
+    background: linear-gradient(90deg, rgba(255,160,197,1) 18%, rgba(149,205,228,1) 50%, rgba(192,149,228,1) 100%);
+    color: #ffffff;
+    padding: 4px;
+}
+.commentbox {
+    display: block;
+    background-color: #f7d3d6;
+    border: solid 2pt;
+    border-color: white;
+    padding: 5pt;
+    margin: auto;
+    text-align: justify;
+    max-width: 1024px;
+    border-radius: 10px;
+    margin-top: 10pt;
+}
+
 footer {
     border-top: 1px #fb6f92 solid;
 }

@@ -46,12 +46,15 @@ author: Shannon Kay
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-# About Me: "aboutme"
+navbar-links:
+    Books: "books"
+    Journal: "journal"
+    Tech: "tech"
+#   About Me: "aboutme"
 # Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+#  Shannon's Homepage: "https://www.shannonkay.com"
 
 ################
 # --- Logo --- #
@@ -217,7 +220,7 @@ site-css:
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5715017005531136-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -277,8 +280,8 @@ date_format: "%B %-d, %Y"
 timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
-permalink: :categories/:year-:month-:day-:title/
-paginate: 5
+permalink: :year/:year-:month-:day-:title/
+paginate: 8
 
 kramdown:
   input: GFM

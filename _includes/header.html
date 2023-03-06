@@ -77,11 +77,23 @@
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
                 Last updated {{ page.last-updated | date: date_format }}
-              </span>
+              </span>            
             {% endif %}
+            
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}
+            <div class="extra-meta">
+            {% if page.weather %} 
+            Weather: {{ page.weather }} • 
+            {% endif %}
+            {% if page.location %} 
+            📍 {{ page.location }} • 
+            {% endif %}
+            {% if page.mood %} 
+            Mood: {{ page.mood }} • 
+            {% endif %}
+            </div>
           {% endif %}
         </div>
       </div>

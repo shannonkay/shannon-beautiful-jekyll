@@ -2,6 +2,9 @@
 layout: post
 title:  "Emoji Subdomain"
 date:   2023-02-22 23:29:15 -0800
+# weather: 
+# location: 
+mood: 🦄
 categories: tech
 tags: IndieWeb Emoji Websites
 ---
