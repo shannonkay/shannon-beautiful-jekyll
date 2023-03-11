@@ -23,7 +23,7 @@ email: me@shannonkay.com.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog version of Shannon Kay
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shannonkayblog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.shannonkay.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 ### Welcome to Beautiful Jekyll!
