@@ -1,38 +1,4 @@
 
-	Date:	October 30, 2021 at 10:52:31 AM PDT
-	Weather:	64°F Clear
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-
-
-I finished reading My Contrary Mary today, and it did not disappoint. More of a review of the book will be coming soon. Life and kids got in the way of my finishing it sooner, but I was excited to finish reading My Contrary Mary on my new Kindle Paperwhite Signature Edition. 
-
-The Kindle Paperwhite Signature Edition is a nice upgrade from my older Kindle Paperwhite. Some points of improvement: 
-	•	Modern charging standards, with a USB-C port and wireless charging
-	•	No ads!
-	•	The option to show my current book cover on the ad-free screen when it’s locked
-	•	A flush screen, not a screen that’s lower than the bezel (as on my previous Kindle)
-	•	Faster loading, and better responsiveness
-	•	Nice case that automatically locks and unlocks when I open and close it. (Wireless charging works through the case too!)
-	•	Audible support with bluetooth for headphones (though I haven’t tried this yet).
-
-Overall, this Kindle is definitely worth upgrading to.
-
-	Date:	November 1, 2021 at 10:55:03 AM PDT
-	Weather:	64°F Mostly Cloudy
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-My Contrary Mary (Review)
-
-
-
-“This was before coffee, dear readers. Although our research did reveal that in the ninth century, an Ethiopian goatherd named Kaldi noticed how excited his goats became after eating the beans from a coffee plant. So, really, it was before coffee was available in France, which we think is inhumane. “
-
-My Contrary Mary was a delightful expansion of the Lady Janies series to include Mary. The book is wonderfully funny with its combination of historical fact, fiction, and humorous commentary. I particularly enjoyed the “future predictions” that were actually movies. The characters were likable, and I enjoy how the arranged marriages actually contain people who like each other.
-
-I highly recommend My Contrary Mary, along with all of the Lady Janies series. I look forward to the next Mary as well!
-
-
 
 	Date:	March 26, 2022 at 10:37:16 PM PDT
 
@@ -668,25 +634,7 @@ When I watched the Ms Marvel series on Disney\+, I was alarmed to discover that 
 
 
 
-	Date:	January 7, 2023 at 2:58:29 PM PST
-	Weather:	65°F Mostly Cloudy
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
 
-The Strike at Putney
-Last night, I read a short story by Lucy Maud Montgomery(author of Anne of Green Gables) from 1903 called The Strike at Putney. 
-
-It’s about a group of church ladies who are told by their church elders and minister that a missionary woman cannot speak in the church, because a woman cannot preach from the pulpit.
-
-So they go on strike. They stop organizing socials to raise money, don’t set fresh flowers out in the church, or clean and dust the church. The organist doesn’t play, and no women sing in the choir. 
-
-“You know if a woman isn't fit to speak in the church she can't be fit to sing in it either."
-The Strike at Putney by L. M. Montgomery
-
-The men last two weeks.
-
-I was delighted to read this story from 120 years ago about women opposing patriarchalism in church.
-
-https://fullreads.com/literature/the-strike-at-putney/
 
 	Date:	January 28, 2023 at 11:26:36 AM PST
 	Weather:	58°F Clear
