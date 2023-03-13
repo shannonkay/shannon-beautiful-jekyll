@@ -11,7 +11,7 @@ thumbnail-img: /assets/img/2023/APsalmfortheWildBuiltonKindle.jpg
 share-img: /assets/img/2023/APsalmfortheWildBuiltonKindle.jpg
 categories: books
 comments: true
-tags: [Sci-Fi, Books and Coffee, Cozy, Becky Chambers, A Psalm for the Wild Built, Monk and Robot ]
+tags: [Sci-Fi, coffee, cozy, Becky Chambers, A Psalm for the Wild Built, Monk and Robot ]
 ---
 
 Rainy days are perfect for reading with a cup of coffee! I’m currently reading  _A Psalm for the Wild-Built_ by Becky Chambers. Cozy Sci-Fi? Serving tea on some moon? The promised robot hasn’t shown up yet, but it’s lovely so far.

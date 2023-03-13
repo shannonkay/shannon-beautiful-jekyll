@@ -1,37 +1,5 @@
 
 
-	Date:	March 26, 2022 at 10:37:16 PM PDT
-
-
-
-I’m in the mood for classics. These editions of the Anne books are some of my favorite volumes. I feel like the designs genuinely reflect the books!
-...
-#bookstagram #classicbookstagram #shelfie #annebooks #bookphotography #classicbooks #anneofgreengables #anneofavonlea #anneoftheisland #anneshouseofdreams #rainbowvalley #rillaofingleside #lmmontgomery
-
-	Date:	March 28, 2022 at 11:47:07 AM PDT
-	Weather:	58°F Light Rain
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-# Rainy Day Reading
-
-
-
-Rainy day reading and coffee! It doesn’t rain much here, so when it does rain I’m excited. Until I have to go somewhere. 
-I’m now reading Queen of Air and Darkness as part of my chronological-ish Shadowhunter reread. 
-🌧🌧🌧
-#coffeeandcurrently #
-
-	Date:	April 23, 2022 at 12:12:38 PM PDT
-	Weather:	70°F Clear
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-
-
-Coffee pictured with my gorgeous 10th Anniversary  edition of Clockwork Angel. Unfortunately, I’ve completed my chronological-ish reread of shadow hunter books and I’m trying not to start re-reading The Last Hours yet, since the final book in that series is not coming out until November. 
-
-I brewed a new coffee this morning from JBC via Fellow Drops, and it’s really good. I brewed a second cup this afternoon and iced it, which was also great.
-...
-#booksandcoffee
 
 
 	Date:	April 26, 2022 at 10:47:23 AM PDT

@@ -11,7 +11,7 @@ thumbnail-img: /assets/img/2021/20211102.13.43-07.jpg
 share-img: /assets/img/2021/20211102.13.43-07.jpg
 categories: books
 comments: true
-tags: [The Lady Janies, Mary, My Contrary Mary ]
+tags: [The Lady Janies, Mary, My Contrary Mary, coffee ]
 ---
 
 >This was before coffee, dear readers. Although our research did reveal that in the ninth century, an Ethiopian goatherd named Kaldi noticed how excited his goats became after eating the beans from a coffee plant. So, really, it was before coffee was available in France, which we think is inhumane. 

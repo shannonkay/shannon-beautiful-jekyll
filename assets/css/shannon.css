@@ -107,6 +107,10 @@ body {
     color: #fb6f92;
 }
 
+.spoilers {
+    
+}
+
 .tag-btn {
     background: linear-gradient(90deg, rgba(255,160,197,1) 18%, rgba(149,205,228,1) 50%, rgba(192,149,228,1) 100%);
     border: 1px solid #a781c6;

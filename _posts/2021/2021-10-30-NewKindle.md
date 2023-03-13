@@ -11,7 +11,7 @@ thumbnail-img: /assets/img/2021/IMG_0599.jpg
 share-img: /assets/img/2021/IMG_0599.jpg
 categories: books tech
 comments: true
-tags: [Kindle, eBooks ]
+tags: [Kindle, eBooks, fall, coffee ]
 ---
 
 I finished reading My Contrary Mary today, and it did not disappoint. More of a review of the book will be coming soon. Life and kids got in the way of my finishing it sooner, but I was excited to finish reading My Contrary Mary on my new Kindle Paperwhite Signature Edition. 

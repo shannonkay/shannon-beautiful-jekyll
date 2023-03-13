@@ -5,13 +5,17 @@ date:   2023-02-25 11:33:14 -0800
 weather: 🌥️ 44°F Mostly Cloudy
 # location: London, England
 mood: 🥰
+thumbnail-img: /assets/img/2023/20230204-IMG_8451.jpg
+share-img: /assets/img/2023/20230204-IMG_8451.jpg
 categories: books
-tags: [Chain of Thorns, Shadowhunters]
+tags: [Chain of Thorns, Shadowhunters, The Last Hours]
 ---
 
 I’ve finished Chain of Thorns, and The Last Hours series of Shadowhunter books has concluded for me.
 
 The anticipation for Chain of Thorns was at the forefront of my reading brain, and I had trouble thinking about what to read next after the “holiday book” reading season. Knowing Chain of Thorns was coming out at the end of January left me indecisive about other reading. 
+
+![Chain of Thorns](/assets/img/2023/20230204-IMG_8451.jpg)
 
 I enjoyed reading a book that I was so looking forward to. I didn’t rush it. But now I have a book series hangover. 
 
