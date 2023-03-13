@@ -45,6 +45,9 @@ body {
 .post-meta {
     
 }
+.bookheader {
+    text-align: center;
+}
 
 #full-tags-list {
     display: block;
