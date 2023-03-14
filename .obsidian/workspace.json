@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "1077529bdf7cec39",
+            "id": "3013309d8680c692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022/2022-04-26-TheNoShow.md",
+                "file": "_drafts/2023-03-01-template 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5073723002c935a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023/2023-01-25-New-Mug.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022/2022-04-26-TheNoShow.md",
+                "file": "_posts/2023/2023-01-25-New-Mug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022/2022-04-26-TheNoShow.md",
+                "file": "_posts/2023/2023-01-25-New-Mug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022/2022-04-26-TheNoShow.md"
+                "file": "_posts/2023/2023-01-25-New-Mug.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35995a9ecce057dd",
+  "active": "5073723002c935a5",
   "lastOpenFiles": [
-    "_drafts/2020-02-28-test-markdown.md",
-    "_posts/2022/2022-04-26-TheNoShow.md",
+    "_drafts/2023-03-01-template 1.md",
     "_drafts/Export.md",
+    "_posts/2022/2022-12-21-WinterSolstice.md",
+    "_posts/2022/2022-04-26-TheNoShow.md",
+    "_drafts/2020-02-28-test-markdown.md",
     "_posts/2022/2022-03-28-RainyDayReading.md",
     "_posts/2023/2023-02-25-finished-chain-of-thorns.md",
     "_posts/2023/2023-03-10-RainyDayReading.md",
     "_posts/2023/2023-03-02-New-Pointe-Shoes.md",
-    "_posts/2023/2023-02-04-China-From-England.md",
-    "_posts/2023/2023-01-25-New-Mug.md",
-    "_posts/2023/2023-01-16-photos.md"
+    "_posts/2023/2023-02-04-China-From-England.md"
   ]
 }

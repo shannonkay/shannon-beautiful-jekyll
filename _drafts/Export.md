@@ -1,54 +1,5 @@
 
 
-
-
-	Date:	April 26, 2022 at 10:47:23 AM PDT
-	Weather:	75°F Mostly Cloudy
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-# Finished: The No-Show
-
-
-
-The No-Show by Beth O’Leary
-The No-Show was different and wonderful. The book is told from the perspectives of three different women; Siobhan, Miranda, and Jane.  At the beginning of the The No-Show, I was most interested in the stories and backgrounds of the three women. Even when I wasn’t sure what to think about each woman’s interactions with “No-Show” Joseph Carter, I was invested in finding out more about the female characters. 
-
-The way in which everything was connected was so different from what I was expecting. I was enthralled. The characters were well developed with depths that I was excited to uncover. I did not predict what was going on in this book, and it was so much better than what I would have guessed.
-
-After reading Beth O’Leary’s The Flatshare, I had been wanting to read another of her books. I couldn’t decide between The Switch and The Road Trip. When The No-Show came out recently, I decided to go right for her newest release. 
-
-I also consumed this book entirely through audiobook, because I had a backlog of Audible credits and I saw that one of the narrators is Evanna Lynch, who played Luna Lovegood in the Harry Potter movies. They used a different narrator for each woman and it was really well done.
-
-Spoilers
-I was expecting the three women to run into each other and the man to be caught, or for there to be some mystery that they would solve surrounding his missing day. Maybe the man was a spy or had multiple personality disorder or something. That was nothing like what was actually in The No-Show.
-
-I was ready for all of the characters to all come together at the New Years Eve party when it was revealed that they were all in different years! 
-
-The way all of the characters’ stories connected was really amazing. At some point before the end, I realized that something terrible was probably going to happen to Siobhan. It wouldn’t really make sense otherwise. That was pretty sad. But the way Joseph Carter and Jane’s stories were intertwined so that they ended up together was pretty cool. They both had so much trauma, they were able to be each other’s second chances. 
-
-The different years twist really reframed the whole first half of the book! I’m still going over things in my head and realizing how they fit together. The mysteries were explained in really satisfying ways that enriched the story rather than taking away from it. 
-
-This book is the opposite of Lost. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	Date:	April 28, 2022 at 11:01:24 AM PDT
 	Weather:	63°F Partly Cloudy
 	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
@@ -487,25 +438,6 @@ The Blood of Olympus by Rick Riordan
 
 #Books #HolidayReading #AmyEReichert #MattHaig #ChristmasBooks #AmReading #PercyJackson
 
-	Date:	December 21, 2022 at 12:13:19 PM PST
-	Weather:	72°F Clear
-	Location:	5120 Twilight Canyon Rd, Yorba Linda, California, United States
-
-# Winter Solistice
-In the Northern Hemisphere, today is the day with the least sunlight, it’s called the Winter Solstice, and is often considered the “first day of winter”. 
-
-I like marking the seasons astronomically. As a lifelong Californian, I’ve always heard that we don’t have “real weather” or “real winter”. The astronomical seasons are about light. 
-
-It’s about light, not the weather or temperature. 
-
-I can get behind a story about light that’s being told all year long, and every year. 
-
-The light shines in the darkness.
-
-And it’s a good thing that winter is about light, not weather, because today is our warmest day in weeks. 
-
-Total Daylight: 9hr 54min 
-Today in Southern California. 
 
 	Date:	December 22, 2022 at 10:11:24 AM PST
 	Weather:	62°F Mostly Cloudy
