@@ -552,15 +552,20 @@ footer .footer-custom-content {
   display: none;
 }
 .post-preview .post-image-small img {
-  max-width: 50%;
+  max-width: 90%;
   max-height: auto;
 }
 @media (max-width: 500px) {
   .post-preview .post-image {
-    display: none;
+    height: auto;
+    width: 90%;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5pt;
   }
   .post-preview .post-image-small {
-    display: block;
+    
   }
 }
 
