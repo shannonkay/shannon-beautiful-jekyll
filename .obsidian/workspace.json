@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30131d3196145368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Export.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-01-25-New-Mug.md",
+                "file": "_drafts/Export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-01-25-New-Mug.md",
+                "file": "_drafts/Export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-01-25-New-Mug.md"
+                "file": "_drafts/Export.md"
               }
             }
           }
@@ -171,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5073723002c935a5",
+  "active": "30131d3196145368",
   "lastOpenFiles": [
     "_drafts/2023-03-01-template 1.md",
     "_drafts/Export.md",

@@ -50,7 +50,10 @@ body {
     
 }
 .bookheader {
-    text-align: center;
+    text-align: right;
+    margin-bottom: 2pt;
+    font-size: 90%;
+    font-weight: 400;
 }
 
 #full-tags-list {
