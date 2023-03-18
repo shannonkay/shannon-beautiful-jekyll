@@ -20,43 +20,14 @@
             }
           },
           {
-            "id": "3013309d8680c692",
+            "id": "4d77b0c5af7cdac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/2023-03-01-template 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5073723002c935a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023/2023-01-25-New-Mug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30131d3196145368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Export.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +154,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30131d3196145368",
+  "active": "cdc577032c729cae",
   "lastOpenFiles": [
-    "_drafts/2023-03-01-template 1.md",
+    "_posts/2022/2022-05-28-Saturday.md",
+    "_site/2022/05-28-Saturday/index.html",
+    "_site/2022/05-28-Saturday",
+    "_site/assets/img/2022/20220528-Saturday.jpg",
+    "assets/img/2022/20220528-Saturday.jpg",
+    "_site/assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
+    "assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
     "_drafts/Export.md",
+    "_posts/2022/2022-04-28-TheyCalledUsEnemy.md",
+    "_site/assets/img/BookCovers/TheyCalledUsEnemy.jpg",
+    "assets/img/BookCovers/TheyCalledUsEnemy.jpg",
+    "assets/img/BookCovers/They Called Us Enemy - Expanded Edition (by George Takei, Justin Eisinger, Steven Scott & Harmony Becker).jpg.sb-a473c11e-XgnNaF",
+    "_site/2022/04-28-TheyCalledUsEnemy/index.html",
+    "_site/2022/04-28-TheyCalledUsEnemy",
+    "_drafts/2023-03-17-Broken.md",
+    "_posts/2023/2023-03-17-LetItBrie.md",
+    "_site/2023/03-17-LetItBrie/index.html",
+    "_site/2023/03-17-LetItBrie",
+    "_site/2023/03-17-2023-03-17-LetItBrie/index.html",
+    "_site/2023/03-17-2023-03-17-LetItBrie",
+    "_site/assets/img/2023/LetitBrie.jpg",
+    "assets/img/2023/20230204.17.28-12-shannonkay.jpg.sb-a473c11e-VcS5yQ",
+    "assets/img/2023/LetitBrie.jpg",
     "_posts/2022/2022-12-21-WinterSolstice.md",
     "_posts/2022/2022-04-26-TheNoShow.md",
     "_drafts/2020-02-28-test-markdown.md",
