@@ -14,15 +14,13 @@ comments: true
 tags: [LM Montgomery, Short Stories, Classics, Go Be Free]
 ---
 
-Last night, I read a short story by Lucy Maud Montgomery(author of Anne of Green Gables) from 1903 called *The Strike at Putney*. 
-
-It’s about a group of church ladies who are told by their church elders and minister that a missionary woman cannot speak in the church, because a woman cannot preach from the pulpit.
+Last night, I read a short story by Lucy Maud Montgomery(author of Anne of Green Gables) from 1903 called *The Strike at Putney*. It’s about a group of church ladies who are told by their church elders and minister that a missionary woman cannot speak in the church, because a woman cannot preach from the pulpit.
 
 So they go on strike. They stop organizing socials to raise money, don’t set fresh flowers out in the church, or clean and dust the church. The organist doesn’t play, and no women sing in the choir. 
 
 >You know if a woman isn't fit to speak in the church she can't be fit to sing in it either.
-
-*The Strike at Putney by L. M. Montgomery*
+> 
+ *The Strike at Putney by L. M. Montgomery*
 
 The men last two weeks.
 

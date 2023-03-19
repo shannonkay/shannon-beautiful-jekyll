@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Export.md",
+                "file": "_drafts/2020-02-26-flake-it-till-you-make-it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca76b8d3e8c4873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2023-03-17-Title.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Export.md",
+                "file": "_drafts/2023-03-17-Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Export.md",
+                "file": "_drafts/2023-03-17-Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Export.md"
+                "file": "_drafts/2023-03-17-Title.md"
               }
             }
           }
@@ -154,8 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc577032c729cae",
+  "active": "5ca76b8d3e8c4873",
   "lastOpenFiles": [
+    "_posts/2023/2023-01-17-A-Snails-Pace.md",
+    "_posts/2023/2023-01-16-photos.md",
+    "_posts/2023/2023-01-09-postal-service-death-cab.md",
+    "_posts/2023/2023-01-07-StrikeAtPutney.md",
+    "_drafts/2023-03-17-Title.md",
+    "_site/2023/03-17-LetItBrie-1/index.html",
+    "_site/2023/03-17-LetItBrie-1",
+    "_site/page4/index.html",
+    "_site/page4",
+    "_drafts/2020-02-26-flake-it-till-you-make-it.md",
+    "_posts/2023/2023-03-17-LetItBrie.md",
+    "_drafts/2020-02-28-test-markdown.md",
+    "_site/2020/02-28-test-markdown/index.html",
+    "_site/2020/02-28-test-markdown",
+    "_site/2020",
+    "_drafts/Export.md",
     "_posts/2022/2022-05-28-Saturday.md",
     "_site/2022/05-28-Saturday/index.html",
     "_site/2022/05-28-Saturday",
@@ -163,25 +192,15 @@
     "assets/img/2022/20220528-Saturday.jpg",
     "_site/assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
     "assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
-    "_drafts/Export.md",
     "_posts/2022/2022-04-28-TheyCalledUsEnemy.md",
     "_site/assets/img/BookCovers/TheyCalledUsEnemy.jpg",
     "assets/img/BookCovers/TheyCalledUsEnemy.jpg",
     "assets/img/BookCovers/They Called Us Enemy - Expanded Edition (by George Takei, Justin Eisinger, Steven Scott & Harmony Becker).jpg.sb-a473c11e-XgnNaF",
-    "_site/2022/04-28-TheyCalledUsEnemy/index.html",
-    "_site/2022/04-28-TheyCalledUsEnemy",
     "_drafts/2023-03-17-Broken.md",
-    "_posts/2023/2023-03-17-LetItBrie.md",
-    "_site/2023/03-17-LetItBrie/index.html",
-    "_site/2023/03-17-LetItBrie",
-    "_site/2023/03-17-2023-03-17-LetItBrie/index.html",
-    "_site/2023/03-17-2023-03-17-LetItBrie",
     "_site/assets/img/2023/LetitBrie.jpg",
-    "assets/img/2023/20230204.17.28-12-shannonkay.jpg.sb-a473c11e-VcS5yQ",
     "assets/img/2023/LetitBrie.jpg",
     "_posts/2022/2022-12-21-WinterSolstice.md",
     "_posts/2022/2022-04-26-TheNoShow.md",
-    "_drafts/2020-02-28-test-markdown.md",
     "_posts/2022/2022-03-28-RainyDayReading.md",
     "_posts/2023/2023-02-25-finished-chain-of-thorns.md",
     "_posts/2023/2023-03-10-RainyDayReading.md",
