@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "fa0c6ece1f85f33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2023-03-17-Title.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3440e04bfe04913b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d77b0c5af7cdac1",
             "type": "leaf",
             "state": {
@@ -40,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2023-03-17-Title.md",
+                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/2023-03-17-Title.md",
+                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2023-03-17-Title.md"
+                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md"
               }
             }
           }
@@ -167,17 +191,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca76b8d3e8c4873",
+  "active": "35995a9ecce057dd",
   "lastOpenFiles": [
+    "_site/2022/12-16-ShiftingSocialMedia/index.html",
+    "_site/2022/12-16-ShiftingSocialMedia",
+    "_site/page4/index.html",
+    "_site/page4",
+    "_drafts/2023-03-17-Title.md",
+    "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
+    "_drafts/2023-03-17-Books.md",
     "_posts/2023/2023-01-17-A-Snails-Pace.md",
     "_posts/2023/2023-01-16-photos.md",
     "_posts/2023/2023-01-09-postal-service-death-cab.md",
     "_posts/2023/2023-01-07-StrikeAtPutney.md",
-    "_drafts/2023-03-17-Title.md",
     "_site/2023/03-17-LetItBrie-1/index.html",
     "_site/2023/03-17-LetItBrie-1",
-    "_site/page4/index.html",
-    "_site/page4",
     "_drafts/2020-02-26-flake-it-till-you-make-it.md",
     "_posts/2023/2023-03-17-LetItBrie.md",
     "_drafts/2020-02-28-test-markdown.md",
@@ -195,7 +223,6 @@
     "_posts/2022/2022-04-28-TheyCalledUsEnemy.md",
     "_site/assets/img/BookCovers/TheyCalledUsEnemy.jpg",
     "assets/img/BookCovers/TheyCalledUsEnemy.jpg",
-    "assets/img/BookCovers/They Called Us Enemy - Expanded Edition (by George Takei, Justin Eisinger, Steven Scott & Harmony Becker).jpg.sb-a473c11e-XgnNaF",
     "_drafts/2023-03-17-Broken.md",
     "_site/assets/img/2023/LetitBrie.jpg",
     "assets/img/2023/LetitBrie.jpg",
