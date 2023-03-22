@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdc577032c729cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/2020-02-26-flake-it-till-you-make-it.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ca76b8d3e8c4873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2023-03-17-Title.md",
+                "file": "_drafts/Export.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa0c6ece1f85f33c",
+            "id": "4b12cff08a6632cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2023-03-17-Title.md",
+                "file": "_posts/2022/2022-06-30-June.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3440e04bfe04913b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d77b0c5af7cdac1",
+            "id": "6ce44d7b26900bb5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -64,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
+                "file": "_posts/2022/2022-06-30-June.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
+                "file": "_posts/2022/2022-06-30-June.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022/2022-12-16-ShiftingSocialMedia.md"
+                "file": "_posts/2022/2022-06-30-June.md"
               }
             }
           }
@@ -191,12 +167,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35995a9ecce057dd",
+  "active": "4b12cff08a6632cd",
   "lastOpenFiles": [
-    "_site/2022/12-16-ShiftingSocialMedia/index.html",
-    "_site/2022/12-16-ShiftingSocialMedia",
-    "_site/page4/index.html",
-    "_site/page4",
+    "_posts/2022/2022-07-01-BookLovers.md",
+    "_site/2022/07-01-BookLovers/index.html",
+    "_site/2022/07-01-BookLovers",
+    "assets/img/2022/BookLoversRomCom.jpg.sb-a473c11e-68CFOv",
+    "_site/assets/img/2022/BookLoversRomCom.jpg",
+    "assets/img/2022/BookLoversRomCom.jpg",
+    "_site/assets/img/2022/24d06f207aa3cd47ed5c125a5b10f6c1.jpeg",
+    "assets/img/2022/24d06f207aa3cd47ed5c125a5b10f6c1.jpeg",
+    "_drafts/Export.md",
+    "_posts/2021/2021-11-01-MyContraryMary.md",
+    "_posts/2022/2022-06-30-June.md",
+    "_site/2022/06-30-June/index.html",
+    "_site/2022/06-30-June",
+    "_posts/2022/2022-06-22-TheWeddingDressSewingCircle.md",
+    "_drafts/2023-03-17-Books 3.md",
+    "_site/2022/06-22-TheWeddingDressSewingCircle/index.html",
+    "_site/2022/06-22-TheWeddingDressSewingCircle",
+    "_posts/2022/2022-06-21-ReadingPaper.md",
+    "assets/img/2022/June2022book.jpg.sb-a473c11e-Vaqzb1",
+    "_site/assets/img/2022/June2022book.jpg",
+    "assets/img/2022/June2022book.jpg",
+    "_site/assets/img/2022/TheWeddingDressSewingCircle.jpg",
+    "assets/img/2022/TheWeddingDressSewingCircle.jpg",
+    "_site/assets/img/2022/a4356d9907b2e6c805eba8a59e9f0062.jpg",
+    "assets/img/2022/a4356d9907b2e6c805eba8a59e9f0062.jpg",
+    "assets/img/2022/a4356d9907b2e6c805eba8a59e9f0062.jpeg.sb-a473c11e-8CUim9",
+    "_posts/2022/2022-06-18-BotMJune.md",
+    "_drafts/2023-03-17-Title 1.md",
+    "_site/2022/06-21-ReadingPaper/index.html",
     "_drafts/2023-03-17-Title.md",
     "_posts/2022/2022-12-16-ShiftingSocialMedia.md",
     "_drafts/2023-03-17-Books.md",
@@ -204,34 +205,14 @@
     "_posts/2023/2023-01-16-photos.md",
     "_posts/2023/2023-01-09-postal-service-death-cab.md",
     "_posts/2023/2023-01-07-StrikeAtPutney.md",
-    "_site/2023/03-17-LetItBrie-1/index.html",
-    "_site/2023/03-17-LetItBrie-1",
     "_drafts/2020-02-26-flake-it-till-you-make-it.md",
     "_posts/2023/2023-03-17-LetItBrie.md",
     "_drafts/2020-02-28-test-markdown.md",
-    "_site/2020/02-28-test-markdown/index.html",
-    "_site/2020/02-28-test-markdown",
-    "_site/2020",
-    "_drafts/Export.md",
     "_posts/2022/2022-05-28-Saturday.md",
-    "_site/2022/05-28-Saturday/index.html",
-    "_site/2022/05-28-Saturday",
-    "_site/assets/img/2022/20220528-Saturday.jpg",
-    "assets/img/2022/20220528-Saturday.jpg",
-    "_site/assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
-    "assets/img/2022/d57f17acbd2327f79d77be4b2778deeb.jpeg",
     "_posts/2022/2022-04-28-TheyCalledUsEnemy.md",
-    "_site/assets/img/BookCovers/TheyCalledUsEnemy.jpg",
-    "assets/img/BookCovers/TheyCalledUsEnemy.jpg",
     "_drafts/2023-03-17-Broken.md",
-    "_site/assets/img/2023/LetitBrie.jpg",
-    "assets/img/2023/LetitBrie.jpg",
     "_posts/2022/2022-12-21-WinterSolstice.md",
     "_posts/2022/2022-04-26-TheNoShow.md",
-    "_posts/2022/2022-03-28-RainyDayReading.md",
-    "_posts/2023/2023-02-25-finished-chain-of-thorns.md",
-    "_posts/2023/2023-03-10-RainyDayReading.md",
-    "_posts/2023/2023-03-02-New-Pointe-Shoes.md",
-    "_posts/2023/2023-02-04-China-From-England.md"
+    "_posts/2022/2022-03-28-RainyDayReading.md"
   ]
 }

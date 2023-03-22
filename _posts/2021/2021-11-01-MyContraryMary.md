@@ -16,8 +16,8 @@ tags: [The Lady Janies, Mary, My Contrary Mary, coffee ]
 
 >This was before coffee, dear readers. Although our research did reveal that in the ninth century, an Ethiopian goatherd named Kaldi noticed how excited his goats became after eating the beans from a coffee plant. So, really, it was before coffee was available in France, which we think is inhumane. 
 
+![My Contrary Mary](/assets/img/2021/20211102.13.43-07.jpg)
+
 My Contrary Mary was a delightful expansion of the Lady Janies series to include Mary. The book is wonderfully funny with its combination of historical fact, fiction, and humorous commentary. I particularly enjoyed the “future predictions” that were actually movies. The characters were likable, and I enjoy how the arranged marriages actually contain people who like each other.
 
 I highly recommend My Contrary Mary, along with all of the Lady Janies series. I look forward to the next Mary as well!
-
-![My Contrary Mary](/assets/img/2021/20211102.13.43-07.jpg)
