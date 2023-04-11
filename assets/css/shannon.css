@@ -240,6 +240,15 @@ body {
     border-radius: 10px;
     margin-top: 10pt;
 }
+.blog-reply {
+    background-color: #f7d3d6;
+    text-align: center;
+}
+.blog-reply a:hover, .blog-reply a:focus  {
+    background: linear-gradient(90deg, #ffa0c5 18%, #95cde4 50%, #c095e4 100%);
+    color: #ffffff;
+    font-weight: 600;
+}
 
 hr {
     background: linear-gradient(90deg, #ffa0c5 18%, #95cde4 50%, #c095e4 100%);

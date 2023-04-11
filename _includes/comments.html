@@ -1,4 +1,7 @@
 {% if page.comments %}
+<section class="blog-reply">
+    <p><a href="mailto:jokey-bellhop.0f@icloud.com?subject=%5BBlog%20Reply%5D%20{{ page.title }}">Reply by email</a></p>
+</section>
   {% include disqus.html %}
   {% include fb-comment.html %}
   {% include staticman-comments.html %}
