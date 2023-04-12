@@ -8,18 +8,7 @@ I spent the morning relaxing with a book and coffee on the patio.
 
 
 
-	Date:	September 21, 2022 at 9:48:11 AM PDT
-	Weather:	70°F Clear
-	Location:	Surf & Sand Resort, Laguna Beach, California, United States
-
-Other Birds at the Beach
-
-
-
-Earlier this week, I celebrated my anniversary(with my husband) at a beautiful beach resort. One of the wonderfully relaxing things I got to do was read on the patio of our ocean view room. Other Birds was a perfect book for spending the last days of summer next to the ocean. I’m only about halfway through, but it has a wonderful late summer/early fall vibe. 
-And yes, I made that coffee with my travel aeropress and hand grinder that I brought with me. 
-
-#bookstagram #bookofthemonth #botm #otherbirds #sarahaddisonallen #beachbooks #beachread #booksta #vacationreading #booksandcoffee
+	
 
 	Date:	October 1, 2022 at 11:06:05 AM PDT
 
