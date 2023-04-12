@@ -4,6 +4,8 @@ permalink: /journal/
 title: Journal
 ---
 
+{% include header-journal.html %}
+
 {% assign posts = paginator.posts | default: site.categories.journal %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
