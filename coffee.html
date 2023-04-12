@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /tech/
-title: Tech
+permalink: /coffee/
+title: Coffee
+
 ---
 
-{% include header-tech.html %}
+{% include header-coffee.html %}
 
-{% assign posts = paginator.posts | default: site.categories.tech %}
+{% assign posts = paginator.posts | default: site.tags.coffee %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
