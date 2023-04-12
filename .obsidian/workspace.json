@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
+                "file": "_posts/2023/2023-04-11-ReplyByEmail.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
+                "file": "_posts/2023/2023-04-11-ReplyByEmail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
+                "file": "_posts/2023/2023-04-11-ReplyByEmail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md"
+                "file": "_posts/2023/2023-04-11-ReplyByEmail.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "3ea4afa3e995756c",
   "lastOpenFiles": [
+    "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
     "_site/2023/04-12-ReplyByEmail/index.html",
     "_site/2023/04-12-ReplyByEmail",
     "_drafts/2023-03-27-IndieWebIDCard.md",
-    "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
     "_posts/2023/2023-04-11-ReplyByEmail.md",
     "_site/2022/09-21-OtherBirdsatTheBeach/index.html",
     "_site/2022/09-21-OtherBirdsatTheBeach",
@@ -202,7 +202,6 @@
     "_site/coffee/index.html",
     "_site/coffee",
     "_includes/header-coffee.html",
-    "_site/coffee.html",
     "_site/assets/img/2023/RidingHorses.jpg",
     "_site/assets/img/2023/20230409.15.33-49-2.jpg",
     "_drafts/2023-03-17-Journal.md",

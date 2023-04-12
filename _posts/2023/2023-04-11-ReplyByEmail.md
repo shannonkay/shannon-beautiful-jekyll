@@ -20,8 +20,11 @@ I remembered that you can configure a subject for a mailto link, and thought abo
 
 I couldn’t quite remember the syntax for adding the subject to the mailto link, so I did a search. I found this nice [tool for creating mailto links](https://mailto.vercel.app). I added a prefix to the subject, and used the Jekyll templating for page title. I also used an iCloud “hide my” email address, to prevent my real email address from being scraped and spammed. 
 
-```html
-<a href="mailto:EMAIL@DOMAIN.COM?subject=%5BBlog%20Reply%5D%20{{ page.title }}">Reply by email</a>
-```
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="WNaQWxv" data-editable="true" data-user="shannonkay" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/shannonkay/pen/WNaQWxv">
+  Untitled</a> by Shannon (<a href="https://codepen.io/shannonkay">@shannonkay</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 I added the email link to the top of my comments html file. Now when you click on the “Reply by Email” link under my blog post, it will fill in the subject in with the title of the blog post you ‘re replying to. It's simple, but customized.
