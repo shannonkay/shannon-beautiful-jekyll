@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-04-11-ReplyByEmail.md",
+                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-04-11-ReplyByEmail.md",
+                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-04-11-ReplyByEmail.md"
+                "file": "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md"
               }
             }
           }
@@ -170,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9aaaaf3f35dfce2",
+  "active": "3ea4afa3e995756c",
   "lastOpenFiles": [
+    "_site/2023/04-12-ReplyByEmail/index.html",
+    "_site/2023/04-12-ReplyByEmail",
+    "_drafts/2023-03-27-IndieWebIDCard.md",
     "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
     "_posts/2023/2023-04-11-ReplyByEmail.md",
     "_site/2022/09-21-OtherBirdsatTheBeach/index.html",
@@ -199,11 +203,9 @@
     "_site/coffee",
     "_includes/header-coffee.html",
     "_site/coffee.html",
-    "coffee.html",
     "_site/assets/img/2023/RidingHorses.jpg",
     "_site/assets/img/2023/20230409.15.33-49-2.jpg",
     "_drafts/2023-03-17-Journal.md",
-    "_drafts/2023-03-27-hcardbio.md",
     "_posts/2023/2023-01-16-photos.md",
     "_posts/2023/2023-01-17-A-Snails-Pace.md",
     "_drafts/2023-03-17-Books.md",
