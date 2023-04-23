@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023/2023-04-21-Persepolis.md",
+                "file": "_posts/2023/2023-04-19-what.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-04-21-Persepolis.md",
+                "file": "_posts/2023/2023-04-19-what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-04-21-Persepolis.md",
+                "file": "_posts/2023/2023-04-19-what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-04-21-Persepolis.md"
+                "file": "_posts/2023/2023-04-19-what.md"
               }
             }
           }
@@ -195,8 +195,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35995a9ecce057dd",
+  "active": "0d39bc0a9c5488d2",
   "lastOpenFiles": [
+    "_posts/2023/2023-04-21-Persepolis.md",
     "_site/2023/04-21-Persepolis/index.html",
     "_site/2023/04-21-Persepolis",
     "_site/2023/04-20-what/index.html",
@@ -222,11 +223,9 @@
     "_drafts/templates/2023-03-17-Title.md",
     "_drafts/templates/2023-03-17-Title 3.md",
     "_drafts/templates/2023-03-17-Books.md",
-    "_posts/2023/2023-04-21-Persepolis.md",
     "_drafts/templates/2023-03-17-Books 3.md",
     "_drafts/templates/2023-03-17-Books 2.md",
     "_drafts/templates/2023-03-17-Books 1.md",
-    "_drafts/templates",
     "_posts/2023/2023-04-11-ReplyByEmail.md",
     "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
     "_site/assets/img/2022/OtherBirdsatTheBeach.jpg",
