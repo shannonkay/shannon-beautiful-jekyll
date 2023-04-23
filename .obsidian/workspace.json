@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023/2023-02-22-emoji-subdomain.md",
+                "file": "_drafts/templates/2023-03-17-Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d39bc0a9c5488d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023/2023-04-21-Persepolis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-02-22-emoji-subdomain.md",
+                "file": "_posts/2023/2023-04-21-Persepolis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-02-22-emoji-subdomain.md",
+                "file": "_posts/2023/2023-04-21-Persepolis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-02-22-emoji-subdomain.md"
+                "file": "_posts/2023/2023-04-21-Persepolis.md"
               }
             }
           }
@@ -183,14 +195,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8180a62d822ea3f5",
+  "active": "35995a9ecce057dd",
   "lastOpenFiles": [
+    "_site/2023/04-21-Persepolis/index.html",
+    "_site/2023/04-21-Persepolis",
+    "_site/2023/04-20-what/index.html",
+    "_site/2023/04-20-what",
+    "_site/assets/img/2023/Persepolis.jpg",
+    "_site/Persepolis.jpg",
+    "_site/page6/index.html",
+    "_site/page6",
+    "Persepolis.jpg",
+    "_posts/2023/2023-04-19-what.md",
+    "assets/img/2023/Persepolis.jpg",
+    "_drafts/templates/2023-03-17-Journal.md",
+    "_posts/2023/2023-02-22-emoji-subdomain.md",
     "_posts/2023/2023-04-09-Spring.md",
     "_site/2023/04-09-Spring/index.html",
     "_site/2023/04-09-Spring",
     "_site/2023/04-08-Spring/index.html",
     "_site/2023/04-08-Spring",
-    "_drafts/templates/2023-03-17-Journal.md",
     "_drafts/2023-03-27-IndieWebIDCard.md",
     "_drafts/test/2020-02-26-flake-it-till-you-make-it.md",
     "_drafts/templates/2023-04-11-Tech.md",
@@ -198,18 +222,13 @@
     "_drafts/templates/2023-03-17-Title.md",
     "_drafts/templates/2023-03-17-Title 3.md",
     "_drafts/templates/2023-03-17-Books.md",
-    "_drafts/templates/2023-03-17-Books 4.md",
+    "_posts/2023/2023-04-21-Persepolis.md",
     "_drafts/templates/2023-03-17-Books 3.md",
     "_drafts/templates/2023-03-17-Books 2.md",
     "_drafts/templates/2023-03-17-Books 1.md",
     "_drafts/templates",
-    "templates",
     "_posts/2023/2023-04-11-ReplyByEmail.md",
-    "_drafts/test",
     "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
-    "_site/2023/04-12-ReplyByEmail/index.html",
-    "_site/2023/04-12-ReplyByEmail",
-    "_site/2022/09-21-OtherBirdsatTheBeach/index.html",
     "_site/assets/img/2022/OtherBirdsatTheBeach.jpg",
     "assets/img/2022/OtherBirdsatTheBeach.jpg",
     "_site/assets/img/2022/1427490ca8ef4602f337f896edacb758.jpeg",
@@ -217,18 +236,12 @@
     "_drafts/Export.md",
     "_site/assets/img/2023/20230409.15.33-49.jpg",
     "_site/assets/img/2023/20230409.15.32-27.jpg",
-    "assets/img/2023/20230409.15.33-49.jpg",
-    "assets/img/2023/20230409.15.32-27.jpg",
     "_drafts/test/2020-02-28-test-markdown.md",
     "_drafts/2023-03-17-Title.md",
     "_drafts/2023-04-11-Tech.md",
     "_drafts/2023-03-17-Books 1.md",
     "_posts/2022/2022-09-19-CoffeeBreak.md",
     "_posts/2023/2023-04-02-RidingHorses.md",
-    "_site/assets/img/2023/RidingHorses.jpg",
-    "_site/assets/img/2023/20230409.15.33-49-2.jpg",
-    "_drafts/2023-03-17-Journal.md",
-    "_posts/2023/2023-01-16-photos.md",
-    "_posts/2023/2023-01-17-A-Snails-Pace.md"
+    "_drafts/2023-03-17-Journal.md"
   ]
 }
