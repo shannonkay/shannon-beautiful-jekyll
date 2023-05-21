@@ -44,6 +44,26 @@
             }
           },
           {
+            "id": "5983bf109502d1af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "e0cee65a0949c1da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "923d5d7bc4a2cb29",
             "type": "leaf",
             "state": {
@@ -56,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,6 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "38dfeae8e6b7e0db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -183,8 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8180a62d822ea3f5",
+  "active": "e0cee65a0949c1da",
   "lastOpenFiles": [
+    "_drafts/templates/2023-03-17-Books 4.md",
+    "_drafts/templates/2023-03-17-Books 3.md",
     "_posts/2023/2023-05-01-HowIChooseMyBOTM.md",
     "_site/2023/05-01-HowIChooseMyBOTM/index.html",
     "_site/2023/05-01-HowIChooseMyBOTM",
@@ -228,7 +258,6 @@
     "_drafts/templates/2023-03-17-Books.md",
     "_drafts/templates/2023-03-17-Books 2.md",
     "_drafts/templates/2023-03-17-Books 1.md",
-    "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md",
-    "_drafts/Export.md"
+    "_posts/2022/2022-09-21-OtherBirdsatTheBeach.md"
   ]
 }
