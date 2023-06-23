@@ -23,4 +23,4 @@ This book had...
 - Descriptions of places that made me want to visit them.
 - A resolution that I couldn’t guess
 
-![Hardcover Book of the Month Club edition of The Secret Book of Flora Lea, a novel by Patti Callahan Henry. Pictured on a pink checked tablecloth next to a cup of coffee.](/assets/img/2023/20230604.11.17-17.jpg)
+![Hardcover Book of the Month Club edition of The Secret Book of Flora Lea, a novel by Patti Callahan Henry. Pictured on a pink checked tablecloth next to a cup of coffee.](/assets/img/2023/20230604.11.17-17.jpg)Coffee: [Yes Plz.coffee](https://www.yesplz.coffee)
