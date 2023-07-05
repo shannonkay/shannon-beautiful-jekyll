@@ -11,7 +11,7 @@ thumbnail-img: /assets/img/2023/IMG_9701.jpg
 share-img: /assets/img/2023/IMG_9701.jpg
 categories: journal
 comments: true
-tags: [Carpet, Paint, Home Decor ]
+tags: [Carpet, Paint, Home Decor, Bedroom Reconstruction ]
 ---
 
 For the last few days, I’ve been focused on choosing new paint and carpet for the bedroom. I knew that I wanted a light pink paint for the walls, so I picked a few colors that I liked and did test swatches on the walls in the room. The three colors that I sampled were [Behr Pink Sea Salt](https://www.behr.com/consumer/ColorDetailView/M190-1/), [Behr Angelico](https://www.behr.com/consumer/ColorDetailView/S180-1), and [Behr Stolen Kiss](https://www.behr.com/consumer/ColorDetailView/MQ3-34/).  I painted swatches on every wall in the room to test the color. It’s amazing how the same color can look so different on walls in the same room! All three colors were really pretty, but we decided that Angelico was too dark for this room. 
