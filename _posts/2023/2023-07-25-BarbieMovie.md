@@ -5,7 +5,7 @@ title:  "Barbie Movie"
 date:   2023-07-25 18:47:00 -0800
 weather: 🔆 87°F Clear
 # location: <a href="https://www.letitbrie.com">Let It Brie</a>
-mood: 🩷 
+mood: 🩷 <img src="/assets/img/icons/HashtagBarbie.png">
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/2023/IMG_1685.jpeg
 share-img: /assets/img/2023/IMG_1685.jpeg

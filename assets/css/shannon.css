@@ -156,6 +156,10 @@ body {
     font-size: 1rem;
     color: #404040;
 }
+.extra-meta img {
+    height: 1.2rem;
+    width: auto;
+}
 
 .rainbow {
     background: linear-gradient(90deg, #f681ae, #f38282, #f7d54d, #6ed46e, #3ed3da, #a48ac9 100%);
@@ -166,11 +170,18 @@ body {
     padding: 5pt;
     */
     font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+    padding: 0.3rem;
 }
 .blog-tags a {
     color: #FC6C85;
-    padding: 2pt;
-    margin-bottom: 2pt;
+    padding: 0.1rem;
+    margin-top: 2.5rem;
+    margin-left: 0.3rem;
     background-color: #f7d3d6;
     
 }
@@ -178,7 +189,6 @@ body {
     color: #ffffff;
     background: linear-gradient(183deg, #f9c2cc 10%, #FC8EAC 70%);
     border-color: #FC6C85;
-    margin-bottom: 2pt;
 }
 .post-preview .blog-tags {
     color: #fb6f92;
