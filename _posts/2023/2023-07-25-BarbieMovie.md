@@ -4,8 +4,8 @@ title:  "Barbie Movie"
 # subtitle: Each post also has a subtitle
 date:   2023-07-25 18:47:00 -0800
 weather: 🔆 87°F Clear
-location: at The Movies
-mood: 🩷 #Barbie <img src="/assets/img/icons/HashtagBarbie.png">
+# location: at The Movies
+mood: 🩷 <img src="/assets/img/icons/HashtagBarbie.png">
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/2023/IMG_1685.jpeg
 share-img: /assets/img/2023/IMG_1685.jpeg
