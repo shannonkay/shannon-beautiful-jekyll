@@ -14,7 +14,7 @@ comments: true
 tags: [The Secret Book of Flora Lea, Patti Callahan Henry, Historical Fiction, coffee ]
 ---
 
-I finished _The Secret Book of Flora Lea_ by Patti Callahan Henry last night, and loved it. 
+I finished [_The Secret Book of Flora Lea_](Patti Callahan Henry) by [Patti Callahan Henry](https://www.patticallahanhenry.com) last night, and loved it. 
 
 This book had...
 - Delightful literary references.

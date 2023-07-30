@@ -16,7 +16,7 @@ tags: [Fourth Wing, Rebecca Yarros, Fantasy, Dragons ]
 
 Fourth Wing was a wild ride.  I enjoyed the dragon-centered fantasy adventure and the romance. The narrative style is a bit more crass and profane* than I prefer, but I was easily pulled in by the world, story, and characters. And, of course, the dragons! I think I hit the point of “can’t put it down” at about the 60% mark. I flew through it and preordered the sequel.
 
-It feels like the entire internet is reading Fourth Wing this summer, which is definitely part of the fun. 
+It feels like the entire internet is reading [Fourth Wing](https://www.rebeccayarros.com/books/fourth-wing/) by Rebecca Yarros this summer, which is definitely part of the fun. 
 
 ![](/assets/img/2023/20230701.13.22-02.jpg)
 
