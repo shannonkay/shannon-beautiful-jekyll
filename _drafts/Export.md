@@ -10,41 +10,6 @@ I spent the morning relaxing with a book and coffee on the patio.
 
 	
 
-	Date:	October 1, 2022 at 11:06:05 AM PDT
-
-# October Reading Begins
-
-
-
-October is here, and I’ve got my fall pumpkin mug and The Kiss Curse(sequel to last year’s perfectly halloweenish The Ex Hex). After a few chapters of The Kiss Curse, I was ready to get out my Halloween stuff. 
-
-My middle child has a September 28 birthday, so I was focused on that. Then suddenly it was October! Now I’m fully in the mood for Halloween. 
-🎃🎃🎃
-#booksandcoffee #halloweenbooks #thekisscurse #fallmug #erinsterling #fallbooks #bookstagram #booksta #halloweenromance #pumpkinmug #kindlebooks #igreads #currentlyreading #spookyseason #spookyreads #witchyvibes #paranormalromance
-
-	Date:	October 9, 2022 at 12:02:46 AM PDT
-	Weather:	67°F Clear
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-BOTM October
-
-
-
-My October Book of the Month box is here! I picked Thistlefoot. My boxes have been getting a little munched in the mailbox lately, but the books are ok. 
-...
-#botm #bookofthemonth #botmbox #bookofthemonthbox #thistlefoot
-
-	Date:	October 21, 2022 at 11:46:17 PM PDT
-	Weather:	64°F Partly Cloudy
-	Location:	5110 Twilight Canyon Rd, Yorba Linda, California, United States
-
-# The Kiss Curse
-
-
-
-Halloween vibes! Sequel to last year’s book, The Ex Hex. The Kiss Curse is a fun Halloween themed witchy contemporary romance. Fast and funny with a tiny bit of mystery/suspense and a few steamy scenes.
-#thekisscurse #erinsterling #halloweenbooks #witchyromance #bookstagram #booksta #booksandpumpkins #currentlyreading #spookyseason #spookyreads #witchyvibes #paranormalromance #fallbooks
-
 	Date:	October 22, 2022 at 8:24:45 PM PDT
 	Weather:	66°F Overcast
 	Location:	Legoland, Carlsbad, California, United States
