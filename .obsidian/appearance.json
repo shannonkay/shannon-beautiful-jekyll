@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "baseFontSize": 15
+  "accentColor": "#ef6bab",
+  "baseFontSize": 15,
+  "cssTheme": "",
+  "theme": "system"
 }
