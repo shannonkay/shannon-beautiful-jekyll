@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/templates/2023-03-17-Books 4.md",
+                "file": "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023/2023-08-11-SeasonalPlanning.md",
+                "file": "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-08-11-SeasonalPlanning.md",
+                "file": "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-08-11-SeasonalPlanning.md",
+                "file": "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-08-11-SeasonalPlanning.md"
+                "file": "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md"
               }
             }
           }
@@ -181,28 +181,33 @@
   },
   "active": "b2e564bcb54f3efe",
   "lastOpenFiles": [
+    "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
+    "_site/2023/08-24-EveryDukeHasHisDay/index.html",
+    "_site/2023/08-24-EveryDukeHasHisDay",
+    "_site/2023/08-05-TheAdventuresofAminaAl-Sirafi/index.html",
+    "_site/2023/08-05-TheAdventuresofAminaAl-Sirafi",
+    "_site/assets/img/BookCovers/EveryDukeHasHisDay.jpg",
+    "_site/assets/NotebookOnPink.jpg",
+    "assets/img/BookCovers/EveryDukeHasHisDay.jpg.sb-076a2a7f-mMxHg1",
+    "assets/img/BookCovers/EveryDukeHasHisDay.jpg",
+    "assets/img/BookCovers/Every Duke Has His Day.jpg",
+    "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
+    "_posts/2023/2023-08-11-SeasonalPlanning.md",
+    "assets/NotebookOnPink.jpg",
+    "assets/AdobeStock_442065686.jpeg",
     "_site/2023/08-11-SeasonalPlanning/index.html",
     "_site/2023/08-11-SeasonalPlanning",
     "_site/assets/img/2023/20230806.15.32-35.jpg",
     "_site/assets/img/2023/20230806.15.31-33.jpg",
     "_site/assets/img/2023/20230806.15.18-21.jpg",
     "_site/assets/img/2023/20230806.15.17-15.jpg",
-    "_site/assets/img/2023/20230806.15.12-03.jpg",
-    "_drafts/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
-    "_posts/2023/2023-08-11-SeasonalPlanning.md",
     "_drafts/templates/2023-08-11-SeasonalPlanning.md",
     "_drafts/templates/2023-03-17-Journal 1.md",
     "_drafts/templates/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
-    "_drafts/templates/2023-03-17-Books 4.md",
     "_drafts/templates/2023-03-17-Books 3.md",
     "_drafts/templates/2023-03-17-Books 2.md",
     "_drafts/templates/2023-03-17-Books.md",
     "_posts/2023/2023-08-10-EnchantedToMeetYou.md",
-    "assets/img/2023/20230806.15.32-35.jpg",
-    "assets/img/2023/20230806.15.31-33.jpg",
-    "assets/img/2023/20230806.15.18-21.jpg",
-    "assets/img/2023/20230806.15.17-15.jpg",
-    "assets/img/2023/20230806.15.12-03.jpg",
     "_posts/2023/2023-07-01-FourthWing.md",
     "_site/2023/08-10-EnchantedToMeetYou/index.html",
     "_site/2023/08-10-EnchantedToMeetYou",
@@ -213,14 +218,8 @@
     "_posts/2022/2022-10-21-OctoberTheKissCurse.md",
     "_drafts/Export.md",
     "_posts/2023/2023-06-04-CurrentlyReading.md",
-    "_site/2022/10-21-OctoberTheKissCurse/index.html",
-    "_site/2022/10-21-OctoberTheKissCurse",
-    "assets/img/2022/TheKissCurse-coffee.jpg.sb-076a2a7f-fxK0hj",
-    "assets/img/2022/TheKissCursel.jpg.sb-076a2a7f-6pTNzz",
     "_posts/2023/2023-06-22-TheSecretBookofFloraLea.md",
     "_posts/2023/2023-07-25-BarbieMovie.md",
-    "_site/assets/img/icons",
-    "assets/img/icons",
     "_drafts/templates/2023-03-17-Journal.md",
     "_drafts/templates/2023-04-11-Tech.md",
     "_posts/2023/2023-06-06-40thBirthday.md",
