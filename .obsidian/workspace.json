@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023/2023-09-15-NewiPhone.md",
+                "file": "_posts/2024/2024-05-24-PhotosinGoodReads.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-09-15-NewiPhone.md",
+                "file": "_posts/2024/2024-05-24-PhotosinGoodReads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-09-15-NewiPhone.md",
+                "file": "_posts/2024/2024-05-24-PhotosinGoodReads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-09-15-NewiPhone.md"
+                "file": "_posts/2024/2024-05-24-PhotosinGoodReads.md"
               }
             }
           },
@@ -235,6 +235,22 @@
   },
   "active": "ce8aeca409fb1a12",
   "lastOpenFiles": [
+    "_site/2024/05-25-PhotosinGoodReads/index.html",
+    "_site/2024/05-25-PhotosinGoodReads",
+    "_drafts/templates/2024-04-11-Tech.md",
+    "_posts/2024/2024-05-24-PhotosinGoodReads.md",
+    "_site/2024/04-11-Tech/index.html",
+    "_site/2024/04-11-Tech",
+    "_drafts/templates/2024-03-17-Books.md",
+    "_posts/2023/2023-01-16-photos.md",
+    "_drafts/2023-10-13-TheBeths.md",
+    "_drafts/2023-03-27-IndieWebIDCard.md",
+    "_drafts/templates/2024-03-17-Books 2.md",
+    "_drafts/templates/2024-03-17-Journal.md",
+    "_drafts/templates/2024-03-17-Title.md",
+    "_drafts/templates/2024-03-17-Title 3.md",
+    "_posts/2022/2022-04-26-TheNoShow.md",
+    "_posts/2023/2023-09-15-NewiPhone.md",
     "_posts/2023/2023-09-28-ChaliceOfTheGods.md",
     "_site/2023/09-28-ChaliceOfTheGods/index.html",
     "_site/2023/09-28-ChaliceOfTheGods",
@@ -251,34 +267,19 @@
     "_posts/2024/2024-01-01-AlmostMidnight.md",
     "_site/2024/01-01-AlmostMidnight/index.html",
     "_site/2024/01-01-AlmostMidnight",
-    "_site/2024",
     "_site/assets/img/2024/AlmostMidnight.jpg",
     "assets/img/2024/AlmostMidnight.jpg",
     "_site/assets/img/2024/IMG_1879 (1).jpeg",
-    "_site/assets/img/2024",
     "assets/img/2024/IMG_1879 (1).jpeg",
-    "_drafts/templates/2023-03-17-Books.md",
-    "_drafts/templates/2023-03-17-Journal.md",
-    "_drafts/templates/2023-03-17-Title.md",
-    "_drafts/2023-03-27-IndieWebIDCard.md",
     "_posts/2023/2023-10-14-HollywoodBowl.md",
-    "assets/img/2024",
     "_posts/2023/2023-11-17-HavingATweenIsActuallyAmazing.md",
     "_posts/2023/2023-10-13-TheBeths.md",
-    "_posts/2023/2023-09-15-NewiPhone.md",
     "_posts/2023/2023-01-17-A-Snails-Pace.md",
-    "_drafts/templates/2023-04-11-Tech.md",
-    "_drafts/templates/2023-03-17-Title 3.md",
     "_drafts/templates/2023-10-13-TheBeths.md",
     "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
     "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
     "_posts/2023/2023-08-11-SeasonalPlanning.md",
     "_drafts/templates/2023-08-11-SeasonalPlanning.md",
-    "_drafts/templates/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
-    "_posts/2023/2023-08-10-EnchantedToMeetYou.md",
-    "_posts/2023/2023-07-01-FourthWing.md",
-    "_site/assets/img/2023/EnchantedtoMeetYoubyMegCabot.jpg.md",
-    "_posts/2021/2021-10-18-TheExHex.md",
-    "assets/img/2023/EnchantedtoMeetYoubyMegCabot.jpg.md"
+    "_drafts/templates/2023-08-05-TheAdventuresofAminaAl-Sirafi.md"
   ]
 }
