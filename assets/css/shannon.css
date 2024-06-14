@@ -36,6 +36,10 @@ body {
   border: 2pt solid white;
 }
 
+.blog-post video {
+    border: 2pt solid white;
+  }
+
 .blog-post a {
     font-weight: 400;
     text-decoration: underline;
