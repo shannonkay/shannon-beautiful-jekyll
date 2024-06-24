@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024/2024-06-14-SummerBookList.md",
+                "file": "_drafts/2024-06-15-TheGetawayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024/2024-06-14-SummerBookList.md",
+                "file": "_drafts/2024-06-15-TheGetawayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024/2024-06-14-SummerBookList.md",
+                "file": "_drafts/2024-06-15-TheGetawayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024/2024-06-14-SummerBookList.md"
+                "file": "_drafts/2024-06-15-TheGetawayList.md"
               }
             }
           },
@@ -168,15 +168,21 @@
   },
   "active": "ce8aeca409fb1a12",
   "lastOpenFiles": [
+    "_drafts/2024-04-06-yallwest.md",
+    "_posts/2024/2024-06-23-SummerRecital.md",
+    "_drafts/2024-06-15-TheGetawayList.md",
+    "_drafts/2023-03-27-IndieWebIDCard.md",
+    "_drafts/2023-10-13-TheBeths.md",
+    "_posts/2024/2024-05-26-TheBlueCastle.md",
+    "_site/2024/06-23-SummerRecital/index.html",
+    "_site/2024/06-23-SummerRecital",
+    "_drafts/templates/2024-03-17-Journal.md",
+    "_posts/2024/2024-06-14-SummerBookList.md",
     "_site/2024/06-14-SummerBookList/index.html",
     "_site/2024/06-14-SummerBookList",
     "_site/2024/03-17-SummerBookList/index.html",
     "_site/2024/03-17-SummerBookList",
     "_drafts/templates/2024-03-17-Books.md",
-    "_drafts/templates/2024-03-17-Books 2.md",
-    "_posts/2024/2024-06-14-SummerBookList.md",
-    "_posts/2024/2024-05-26-TheBlueCastle.md",
-    "_posts/2024/2024-04-06-yallwest.md",
     "_site/2024/04-06-yallwest/index.html",
     "_site/2024/04-06-yallwest",
     "_site/assets/vid/TraceyDeonnMeetsShannon-2024.mp4",
@@ -184,11 +190,7 @@
     "_posts/2022/2022-10-21-OctoberTheKissCurse.md",
     "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
     "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
-    "_drafts/templates/2024-03-17-Journal.md",
-    "_site/2024/05-26-TheBlueCastle/index.html",
-    "_site/2024/05-26-TheBlueCastle",
     "_site/assets/img/2024/TheBlueCastle.jpg",
-    "_site/page9/index.html",
     "_posts/2022/2022-04-26-TheNoShow.md",
     "_posts/2024/2024-01-01-AlmostMidnight.md",
     "assets/img/2024/TheBlueCastle.jpg",
@@ -196,8 +198,6 @@
     "_posts/2024/2024-05-25-PhotosinGoodReads.md",
     "_drafts/templates/2024-04-11-Tech.md",
     "_posts/2023/2023-01-16-photos.md",
-    "_drafts/2023-10-13-TheBeths.md",
-    "_drafts/2023-03-27-IndieWebIDCard.md",
     "_drafts/templates/2024-03-17-Title.md",
     "_drafts/templates/2024-03-17-Title 3.md",
     "_posts/2023/2023-09-15-NewiPhone.md",
@@ -212,7 +212,6 @@
     "_site/assets/img/2024/AlmostMidnight.jpg",
     "_posts/2023/2023-10-14-HollywoodBowl.md",
     "_posts/2023/2023-11-17-HavingATweenIsActuallyAmazing.md",
-    "_posts/2023/2023-10-13-TheBeths.md",
-    "_posts/2023/2023-01-17-A-Snails-Pace.md"
+    "_posts/2023/2023-10-13-TheBeths.md"
   ]
 }

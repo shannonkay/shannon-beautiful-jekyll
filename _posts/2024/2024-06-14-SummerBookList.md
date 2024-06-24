@@ -15,6 +15,8 @@ Just some books that I think I might want to read this summer. This is not an ex
 - [Dragonfruit](https://app.thestorygraph.com/books/8149b8f0-0978-4be8-a573-594b1796c015) by [Makiia Lucier](https://app.thestorygraph.com/authors/b689287b-0f99-4553-bc23-28bff55c3760)
 - [Ink Blood Sister Scribe](https://app.thestorygraph.com/books/806a75e2-59fb-4a59-93df-dc2cae0888bf) by [Emma Törzs](https://app.thestorygraph.com/authors/73223157-493b-426b-9cc5-b4c165471f3e)
 - Song of the Six Realms by [Judy I. Lin](https://app.thestorygraph.com/authors/a11fc3d2-0382-4902-a371-77444c39a893) (OwlCrate)
+- [Children of Ragnarok](https://www.goodreads.com/book/show/60740339-children-of-ragnarok?ac=1&from_search=true&qid=ZldN9rTdHI&rank=1) by [Cinda Williams Chima](https://www.goodreads.com/author/show/125308.Cinda_Williams_Chima) (sequel, Bane of Asgard, is out October 22)
+- Of Jade and Dragons by Amber Chen (OwlCrate)
 
 ## Summer Releases I Have Preordered
 - [The Spellshop](http://www.sarahbethdurst.com/Spellshop.htm) by Sarah Beth Durst (7/9/24)
@@ -42,9 +44,10 @@ I'd like to read at least one of these
 
 ## Books I'd like to read that have sequels coming out in the fall
 - [The Hurricane Wars](https://app.thestorygraph.com/books/cb4587a5-ca59-4ea5-acce-d66d7e9b8dd8) by [Thea Guanzon](https://app.thestorygraph.com/authors/ae3ff2e7-d0fd-41c5-8b05-6ffaa2630580) (sequel is out October 22)
+- [Children of Ragnarok](https://www.goodreads.com/book/show/60740339-children-of-ragnarok?ac=1&from_search=true&qid=ZldN9rTdHI&rank=1) by [Cinda Williams Chima](https://www.goodreads.com/author/show/125308.Cinda_Williams_Chima) (sequel, Bane of Asgard, is out October 22)
 
-Books listed total: 22 
+Books listed total: 24 
 -1 ARC read
 -1 Summer Romance read
-= 20. 
+= 22. 
 Book Math.
