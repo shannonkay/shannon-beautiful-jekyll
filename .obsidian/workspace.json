@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2024-06-15-TheGetawayList.md",
+                "file": "_posts/2024/2024-06-23-SummerRecital.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2024-06-15-TheGetawayList.md",
+                "file": "_posts/2024/2024-06-23-SummerRecital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/2024-06-15-TheGetawayList.md",
+                "file": "_posts/2024/2024-06-23-SummerRecital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2024-06-15-TheGetawayList.md"
+                "file": "_posts/2024/2024-06-23-SummerRecital.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "ce8aeca409fb1a12",
   "lastOpenFiles": [
+    "_drafts/2024-06-15-TheGetawayList.md",
     "_drafts/2024-04-06-yallwest.md",
     "_posts/2024/2024-06-23-SummerRecital.md",
-    "_drafts/2024-06-15-TheGetawayList.md",
     "_drafts/2023-03-27-IndieWebIDCard.md",
     "_drafts/2023-10-13-TheBeths.md",
     "_posts/2024/2024-05-26-TheBlueCastle.md",

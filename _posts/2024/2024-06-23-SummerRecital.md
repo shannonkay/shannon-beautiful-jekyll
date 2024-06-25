@@ -22,7 +22,7 @@ When I got to the theater and an usher handed me a program, I was surprised and 
 The picture from the Alice in Wonderland recital she performed in was there to promote this winter's recital for the younger dancers, which is the Alice in Wonderland theme again. I was so excited when I saw her picture that I immediately told the usher "That's my daughter when she was little! Now she's big and en pointe!" I also told pretty much anyone that was standing nearby. I started to tear up a bit, thinking about how much she's grown in nine years. When I got to my seat, I told the person sitting next to me all about it. When you put your three year old in a dance class, you don't know how long they'll want to dance. Sometimes they love dance, try lots of styles, work hard for ten years, and start doing ballet en pointe. If you want to see how far she's come, [here's the video of her pre-ballet Alice in Wonderland dance at age four](https://photo.shannonkay.com/Events/Winter-Dance-Recital-2015-Alice/n-C7qrH8/i-R585Cqh/A).
 
 Nine years later, this is her [pointe duet to the Pink Panther theme](https://photo.shannonkay.com/Events/Summer-Dance-Recital-2024/n-7SThGg/i-dv5hq3M/A).
-<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="640" height="360" src="https://api.smugmug.com/services/embed/15265982506_dv5hq3M?width=1280&height=720&albumId=408806722&albumKey=fSrqf4"></iframe>
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="100%"  height="360" src="https://api.smugmug.com/services/embed/15265982506_dv5hq3M?width=1280&height=720&albumId=408806722&albumKey=fSrqf4"></iframe>
 
 I still have this photo of four-year-old Guinevere from her Alice in Wonderland recital hanging on my wall.
 
