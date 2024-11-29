@@ -8,59 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce8aeca409fb1a12",
+            "id": "43489e327276009f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024/2024-06-15-TheGetawayList.md",
+                "file": "_posts/2021/2021-11-08-HistorySmashersMayflower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-15-TheGetawayList"
+              "title": "2021-11-08-HistorySmashersMayflower"
             }
           },
           {
-            "id": "f6f0d77cc60d4972",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.5"
-            }
-          },
-          {
-            "id": "65c1df0940d313e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.7"
-            }
-          },
-          {
-            "id": "167c992fb7541065",
+            "id": "b7e29e5d58991dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024/2024-06-23-SummerRecital.md",
+                "file": "_posts/2021/2021-11-20-IfTheFatesAllow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-23-SummerRecital"
+              "title": "2021-11-20-IfTheFatesAllow"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +201,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167c992fb7541065",
+  "active": "b7e29e5d58991dc2",
   "lastOpenFiles": [
+    "_site/2021/11-10-IfTheFatesAllow/index.html",
+    "_site/2021/11-10-IfTheFatesAllow",
+    "_site/2021/11-10-ClaudiaAndTheFirstThanksgiving/index.html",
+    "_site/2021/11-10-ClaudiaAndTheFirstThanksgiving",
+    "_site/2021/11-08-HistorySmashersMayflower/index.html",
+    "_site/2021/11-08-HistorySmashersMayflower",
+    "_site/assets/img/BookCovers/IfTheFatesAllow.png",
+    "_site/assets/img/BookCovers/HistorySmashersMayflower.jpg",
+    "_site/assets/img/BookCovers/ClaudiaandtheFirstThanksgiving.jpg",
+    "_site/page10/index.html",
+    "_site/page10",
+    "assets/img/BookCovers/IfTheFatesAllow.png",
+    "_posts/2021/2021-11-10-ClaudiaAndTheFirstThanksgiving.md",
+    "_posts/2021/2021-11-20-IfTheFatesAllow.md",
+    "_drafts/2023-03-27-IndieWebIDCard.md",
+    "_posts/2021/2021-11-08-HistorySmashersMayflower.md",
+    "_posts/2024/2024-06-15-TheGetawayList.md",
+    "_drafts/templates/2024-03-17-Journal.md",
+    "assets/img/BookCovers/HistorySmashersMayflower.jpg",
+    "assets/img/BookCovers/ClaudiaandtheFirstThanksgiving.jpg",
     "_posts/2024/2024-09-01-Autumn2024BookList.md",
     "_posts/2024/2024-10-31-BlizzardHalloweenParty.md",
     "_posts/2024/2024-06-23-SummerRecital.md",
-    "_posts/2024/2024-06-15-TheGetawayList.md",
     "_posts/2024/2024-06-14-SummerBookList.md",
     "_posts/2024/2024-06-05-Holes.md",
     "_posts/2024/2024-05-26-TheBlueCastle.md",
@@ -238,39 +233,21 @@
     "_site/2024/10-31-BlizzardHalloweenParty",
     "_posts/2024/2024-01-01-AlmostMidnight.md",
     "_site/2024/03-17-BlizzardHalloweenParty/index.html",
-    "_site/2024/03-17-BlizzardHalloweenParty",
-    "_site/2024/09-01-Autumn2024BookList/index.html",
-    "_site/2024/09-01-Autumn2024BookList",
-    "_site/2024/06-15-TheGetawayList/index.html",
-    "_site/2024/06-15-TheGetawayList",
-    "_site/2024/06-05-Holes/index.html",
-    "_site/2024/06-05-Holes",
     "_site/assets/img/BookCovers/TheGetawayList.jpg",
     "_site/assets/img/BookCovers/Holes.jpg",
     "_site/assets/img/2024/IMG_4903.jpeg",
     "_site/assets/img/2024/20241031.18.41-0149.jpeg",
-    "_site/assets/img/2024/20240827.08.44-231-45.jpeg",
-    "_site/assets/img/2024/20240827.07.34-231-32.jpeg",
     "_posts/2024/2024-04-06-yallwest.md",
-    "assets/img/2024/20241031.18.41-0149.jpeg",
-    "assets/img/2024/20241031.18.41-0149-Enhanced-NR.jpeg",
-    "assets/img/2024/IMG_4903.jpeg",
-    "assets/img/2024/20240827.08.44-231-45.jpeg",
     "_drafts/templates/2024-03-17-Books.md",
-    "_drafts/templates/2024-03-17-Journal.md",
     "_drafts/templates/2024-03-17-Title.md",
     "_drafts/templates/2024-03-17-Title 3.md",
     "_drafts/templates/2024-04-11-Tech.md",
-    "_drafts/2023-03-27-IndieWebIDCard.md",
     "_drafts/2023-10-13-TheBeths.md",
     "_posts/2022/2022-10-21-OctoberTheKissCurse.md",
     "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
     "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
     "_posts/2022/2022-04-26-TheNoShow.md",
     "_posts/2024/2024-05-25-PhotosinGoodReads.md",
-    "_posts/2023/2023-01-16-photos.md",
-    "_posts/2023/2023-09-15-NewiPhone.md",
-    "_posts/2023/2023-09-28-ChaliceOfTheGods.md",
-    "_posts/2023/2023-12-02-BooksIReadInNovember.md"
+    "_posts/2023/2023-01-16-photos.md"
   ]
 }
