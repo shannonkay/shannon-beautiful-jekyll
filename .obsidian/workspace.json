@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021/2021-11-20-IfTheFatesAllow.md",
+                "file": "_posts/2025/2025-02-07-WingsOfStarlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021-11-20-IfTheFatesAllow"
+              "title": "2025-02-07-WingsOfStarlight"
+            }
+          },
+          {
+            "id": "627361c1f155879d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/img/BookCovers/WingsOfStarlight-BN.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "WingsOfStarlight-BN"
             }
           }
         ],
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,26 +216,40 @@
   },
   "active": "b7e29e5d58991dc2",
   "lastOpenFiles": [
+    "_site/2025/02-07-WingsOfStarlight/index.html",
+    "_site/2025/02-07-WingsOfStarlight",
+    "_drafts/2023-10-13-TheBeths.md",
+    "_posts/2025/2025-02-07-WingsOfStarlight.md",
+    "_drafts/templates/2025-01-06-2024inReview.md",
+    "assets/img/BookCovers/WingsOfStarlight-BN.jpg",
+    "_drafts/templates/2025-03-17-Books.md",
+    "_site/assets/img/BookCovers/WingsOfStarlight-BN.jpg",
+    "_site/assets/img/BookCovers/Wings of Starlight BN.jpg",
+    "assets/img/BookCovers/Wings of Starlight BN.jpg",
+    "_drafts/templates/2025-02-07-WingsOfStarlight.md",
+    "_drafts/templates/2025-01-17-Journal.md",
+    "_posts/2025/2025-02-10-MakeYourOwnWebsite.md",
+    "_site/2025/02-10-MakeYourOwnWebsite/index.html",
+    "_site/2025/02-10-MakeYourOwnWebsite",
+    "_site/2025",
+    "_posts/2024/2024-11-30-ChristmasTreeFarm.md",
+    "_site/2024/11-30-ChristmasTreeFarm/index.html",
+    "_site/2024/11-30-ChristmasTreeFarm",
+    "_site/2024/12-27-NewNAS/index.html",
+    "_site/2024/12-27-NewNAS",
+    "_posts/2024/2024-12-27-NewNAS.md",
+    "_drafts/templates/2025-04-11-Tech.md",
+    "_posts/2025",
+    "_posts/2021/2021-11-20-IfTheFatesAllow.md",
     "_posts/2024/2024-md.zip",
-    "_posts/2024/Archive.zip",
-    "_site/2021/11-10-IfTheFatesAllow/index.html",
-    "_site/2021/11-10-IfTheFatesAllow",
-    "_site/2021/11-10-ClaudiaAndTheFirstThanksgiving/index.html",
-    "_site/2021/11-10-ClaudiaAndTheFirstThanksgiving",
-    "_site/2021/11-08-HistorySmashersMayflower/index.html",
-    "_site/2021/11-08-HistorySmashersMayflower",
     "_site/assets/img/BookCovers/IfTheFatesAllow.png",
     "_site/assets/img/BookCovers/HistorySmashersMayflower.jpg",
     "_site/assets/img/BookCovers/ClaudiaandtheFirstThanksgiving.jpg",
-    "_site/page10/index.html",
-    "_site/page10",
     "assets/img/BookCovers/IfTheFatesAllow.png",
     "_posts/2021/2021-11-10-ClaudiaAndTheFirstThanksgiving.md",
-    "_posts/2021/2021-11-20-IfTheFatesAllow.md",
     "_drafts/2023-03-27-IndieWebIDCard.md",
     "_posts/2021/2021-11-08-HistorySmashersMayflower.md",
     "_posts/2024/2024-06-15-TheGetawayList.md",
-    "_drafts/templates/2024-03-17-Journal.md",
     "assets/img/BookCovers/HistorySmashersMayflower.jpg",
     "assets/img/BookCovers/ClaudiaandtheFirstThanksgiving.jpg",
     "_posts/2024/2024-09-01-Autumn2024BookList.md",
@@ -231,23 +258,9 @@
     "_posts/2024/2024-06-14-SummerBookList.md",
     "_posts/2024/2024-06-05-Holes.md",
     "_posts/2024/2024-05-26-TheBlueCastle.md",
-    "_site/2024/10-31-BlizzardHalloweenParty/index.html",
     "_posts/2024/2024-01-01-AlmostMidnight.md",
-    "_site/assets/img/BookCovers/TheGetawayList.jpg",
-    "_site/assets/img/BookCovers/Holes.jpg",
-    "_site/assets/img/2024/IMG_4903.jpeg",
-    "_site/assets/img/2024/20241031.18.41-0149.jpeg",
     "_posts/2024/2024-04-06-yallwest.md",
-    "_drafts/templates/2024-03-17-Books.md",
     "_drafts/templates/2024-03-17-Title.md",
-    "_drafts/templates/2024-03-17-Title 3.md",
-    "_drafts/templates/2024-04-11-Tech.md",
-    "_drafts/2023-10-13-TheBeths.md",
-    "_posts/2022/2022-10-21-OctoberTheKissCurse.md",
-    "_posts/2023/2023-08-24-EveryDukeHasHisDay.md",
-    "_posts/2023/2023-08-05-TheAdventuresofAminaAl-Sirafi.md",
-    "_posts/2022/2022-04-26-TheNoShow.md",
-    "_posts/2024/2024-05-25-PhotosinGoodReads.md",
-    "_posts/2023/2023-01-16-photos.md"
+    "_drafts/templates/2024-03-17-Title 3.md"
   ]
 }
