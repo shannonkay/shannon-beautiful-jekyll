@@ -4,7 +4,7 @@ title: The Blue Castle
 date: 2024-05-26 12:57:14 -0800
 categories: books
 comments: true
-tags: 
+tags: [Classics, Literary, LM Montgomery, Romance]
 thumbnail-img: /assets/img/2024/TheBlueCastle.jpg
 mood: 🥰
 share-img: /assets/img/2024/TheBlueCastle.jpg

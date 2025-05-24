@@ -12,9 +12,13 @@ mood: 🎄
 ---
 Visiting Peltzer Pines Christmas tree farm to pick out our tree for this year.
 
-<a href="https://photo.shannonkay.com/Feed/2024/i-sBqF56k/A"><img src="https://photos.smugmug.com/Feed/2024/i-sBqF56k/0/M5XwgB5TbSvfgZBPNgM9cxX5njVL2N4xHVVwxXBJr/M/20241130.15.25-0185iPhone%2015%20Pro-M.jpg" alt="Christmas Tree Farm 2024"></a>
+<figure><a href="https://photo.shannonkay.com/Feed/2024/i-sBqF56k/A"><img src="https://photos.smugmug.com/Feed/2024/i-sBqF56k/0/M5XwgB5TbSvfgZBPNgM9cxX5njVL2N4xHVVwxXBJr/M/20241130.15.25-0185iPhone%2015%20Pro-M.jpg" alt="Family Selfie at Christmas Tree Farm 2024"></a>
+<figcaption>Our Family Selfie</figcaption>
+</figure>
 
+<figure>
 <a href="https://photo.shannonkay.com/Feed/2024/i-MsmqXW6/A"><img src="https://photos.smugmug.com/Feed/2024/i-MsmqXW6/0/KpTsstf88F4m3BxBD3hNfJMwFg4QjkLPXBShwTSfh/M/20241130.15.44-0087-M.jpg" alt="Christmas Tree Farm 2024"></a> <a href="https://photo.shannonkay.com/Feed/2024/i-SPmwZJb/A"><img src="https://photos.smugmug.com/Feed/2024/i-SPmwZJb/0/NQXZWJ62GqQ6zxvRrMrtjpcZ2vRPbs8ftG67bhp2B/M/20241130.15.45-0104-M.jpg" alt="Christmas Tree Farm 2024"></a> 
+<figcaption>We had to take some photos with our tree!</figcaption></figure>
 
 <a href="https://photo.shannonkay.com/Feed/2024/i-225GchK/A"><img src="https://photos.smugmug.com/Feed/2024/i-225GchK/0/NHWRW6Hr5cdss2LHPrsD4DRXpRsJfCCgNtBpnXnwL/M/20241130.15.52-0124-M.jpg" alt="Christmas Tree Farm 2024"></a>
 

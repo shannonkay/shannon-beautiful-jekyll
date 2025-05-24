@@ -4,8 +4,7 @@ title: The Getaway List by Emma Lord
 date: 2024-06-15 12:45:00 -0800
 categories: books
 comments: true
-tags:
-  - Summer
+tags: [Young Adult, YA, Summer, Romance, Friendship]
 weather: 🔆 82°F Clear
 thumbnail-img: /assets/img/BookCovers/TheGetawayList.jpg
 share-img: /assets/img/BookCovers/TheGetawayList.jpg

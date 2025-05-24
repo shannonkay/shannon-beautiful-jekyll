@@ -4,7 +4,7 @@ title: Almost Midnight
 date: 2024-01-01 12:01:01 -0800
 categories: books
 comments: true
-tags: 
+tags: [Short Stories, New Year, Rainbow Rowell ]
 weather: ☁️ 51°F Cloudy
 thumbnail-img: /assets/img/2024/AlmostMidnight.jpg
 share-img: /assets/img/2024/AlmostMidnight.jpg
