@@ -19,4 +19,4 @@ This is a truly delightful book, with a perfect blend of magic, humor, romance, 
 
 I read the [Book of the Month](https://www.mybotm.com/2m2gm3t3xg7) edition.
 
-![alt](/assets/img/2024/OrnithologistIndiaHolton.jpg)
+![Book of the Month hardcover edition of The Ornithologist's Field Guide to Love by India Holton](/assets/img/2024/OrnithologistIndiaHolton.jpg)
