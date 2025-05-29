@@ -11,7 +11,7 @@ weather: 🔆 72°F Mostly Clear
 thumbnail-img: /assets/img/BookCovers/GoingPostal.jpg
 share-img: /assets/img/BookCovers/GoingPostal.jpg
 ---
-Today I finished reading Going Postal by Terry Pratchett. It was my first Terry Pratchett book.
+Today I finished reading [Going Postal](https://app.thestorygraph.com/books/eff70811-f850-4c2b-a92c-c730bef4fd9b) by [Terry Pratchett](https://terrypratchett.com). It was my first Terry Pratchett book.
 
 Here's a quote.
 
