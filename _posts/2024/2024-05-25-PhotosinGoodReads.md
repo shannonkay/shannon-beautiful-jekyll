@@ -2,7 +2,7 @@
 layout: post
 title: Use Photos in GoodReads Reviews
 date: 2024-05-24 23:15:14 -0800
-categories: books tech
+categories: [books, tech]
 comments: true
 tags:
 ---

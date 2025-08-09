@@ -6,6 +6,11 @@ categories: books
 comments: true
 tags:
   - Summer
+  - Book List
+  - Reading List
+  - Book Recs
+  - Recommendations
+  - lists
 mood: 🥰 📚😎⛱️
 weather: 🔆 88°F Mostly Sunny 😎
 thumbnail-img: https://photos.smugmug.com/photos/i-gFqFDgv/0/MNLGCLcj9SfSbphhQnmCRFzxGJZVSqQkpFL6msqX8/X2/i-gFqFDgv-X2.jpg

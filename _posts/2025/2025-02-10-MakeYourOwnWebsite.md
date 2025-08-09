@@ -4,9 +4,9 @@ title: Make Your Own Website
 date: 2025-02-10 13:26:00 -0800
 categories: tech
 comments: true
-tags: Websites, Webweaving
+tags: [Websites, Webweaving, Small Web, Personal Websites, HTML]
 ---
-Now presenting, [Make Your Own Website](https://web.pixelshannon.com/make)
+Now presenting, [Make Your Own Website](https://make.yourownwebsite.org)
 
 This guide is intended to help beginners make their first website with HTML/CSS.
 

@@ -4,7 +4,7 @@ title: Summer 2024 Book List
 date: 2024-06-14 11:00:14 -0800
 categories: books
 comments: true
-tags: 
+tags: lists
 weather: 🔆 77°F Sunny 😎
 ---
 Just some books that I think I might want to read this summer. This is not an exhaustive list, or even a "To Be Read" list, but just a selection of books that I think I might read during the next season for a variety of reasons.

@@ -4,7 +4,7 @@ title: Autumn 2024 Book List
 date: 2024-09-01 12:57:14 -0800
 categories: books
 comments: true
-tags: 
+tags: lists
 weather: 🔆 79°F Clear
 mood: 🥰🎃🥰🍂
 ---

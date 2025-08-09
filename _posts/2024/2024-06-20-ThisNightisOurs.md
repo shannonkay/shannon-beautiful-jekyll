@@ -11,6 +11,7 @@ tags:
   - Summer
   - Romance
   - Friendship
+  - Ronni Davis
 weather: 🔆 82°F Clear
 thumbnail-img: https://photos.smugmug.com/photos/i-TJpz3gv/0/KMnqWz8q7LCGTnD84VTC99rgNVSDfLZrnHbvH6wkS/X2/i-TJpz3gv-X2.jpg
 share-img: https://photos.smugmug.com/photos/i-TJpz3gv/0/KMnqWz8q7LCGTnD84VTC99rgNVSDfLZrnHbvH6wkS/X2/i-TJpz3gv-X2.jpg

@@ -7,6 +7,7 @@ comments: true
 tags:
   - Fantasy
   - Funny
+  - Terry Pratchett
 weather: 🔆 72°F Mostly Clear
 thumbnail-img: /assets/img/BookCovers/GoingPostal.jpg
 share-img: /assets/img/BookCovers/GoingPostal.jpg

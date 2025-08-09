@@ -10,6 +10,7 @@ tags:
   - cozy
   - Cottagecore
   - Summer
+  - Sarah Beth Durst
 thumbnail-img: https://photos.smugmug.com/photos/i-GdGM377/0/K6QdQwnFFRRV3Kx7LQRtPMKBJNGRxHt9N5Jfsq6gc/X3/i-GdGM377-X3.jpg
 share-img: https://photos.smugmug.com/photos/i-GdGM377/0/K6QdQwnFFRRV3Kx7LQRtPMKBJNGRxHt9N5Jfsq6gc/X3/i-GdGM377-X3.jpg
 weather: 🔆 70°F Clear

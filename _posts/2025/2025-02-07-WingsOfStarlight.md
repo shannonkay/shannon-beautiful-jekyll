@@ -9,6 +9,7 @@ tags:
   - Fairies
   - Romance
   - Young Adult
+  - Allison Saft
 thumbnail-img: /assets/img/BookCovers/WingsOfStarlight-BN.jpg
 share-img: /assets/img/BookCovers/WingsOfStarlight-BN.jpg
 mood: 🥰 📚🧚🏻
